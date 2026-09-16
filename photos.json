@@ -1,0 +1,76 @@
+{
+ "hero": [
+  {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Tokyo-Higashiginza---2026-06-28_004.jpg/960px-Tokyo-Higashiginza---2026-06-28_004.jpg",
+   "title": "Tokyo-Higashiginza---2026-06-28 004.jpg",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Art_crafts_for_amateurs_%281901%29_%2814763349585%29.jpg/960px-Art_crafts_for_amateurs_%281901%29_%2814763349585%29.jpg",
+   "title": "Art crafts for amateurs (1901) (14763349585).jpg",
+   "lic": "No restrictions"
+  },
+  {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Hama-rikyu_garden_against_the_Tokyo_skyline_%2853620865036%29.jpg/960px-Hama-rikyu_garden_against_the_Tokyo_skyline_%2853620865036%29.jpg",
+   "title": "Hama-rikyu garden against the Tokyo skyline (53620865036).jpg",
+   "lic": "CC BY 2.0"
+  }
+ ],
+ "A": {
+  "card": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Edo-Tokyo_Museum_%E6%B1%9F%E6%88%B8%E6%9D%B1%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%A4%A8_2.jpg/960px-Edo-Tokyo_Museum_%E6%B1%9F%E6%88%B8%E6%9D%B1%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%A4%A8_2.jpg",
+   "title": "Edo-Tokyo Museum 江戸東京博物館 2.jpg",
+   "lic": "CC BY-SA 4.0"
+  },
+  "detail": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Edo-Tokyo_Museum_%E6%B1%9F%E6%88%B8%E6%9D%B1%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%A4%A8_5.jpg/960px-Edo-Tokyo_Museum_%E6%B1%9F%E6%88%B8%E6%9D%B1%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%A4%A8_5.jpg",
+    "title": "Edo-Tokyo Museum 江戸東京博物館 5.jpg",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Katsushika_Hokusai%2C_published_by_Nishimuraya_Yohachi_%28Eijud%C5%8D%29_-_Peonies_and_Canary_%28Shakuyaku%2C_kanaari%29%2C_from_an_untitled_series_known_as_Small_Flowers_-_Google_Art_Project.jpg/960px-thumbnail.jpg",
+    "title": "Katsushika Hokusai, published by Nishimuraya Yohachi (Eijudō) - Peonies and Canary (Shakuyaku, kanaari), from an untitled series known as Small Flowers - Google Art Project.jpg",
+    "lic": "Public domain"
+   }
+  ]
+ },
+ "B": {
+  "card": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Japanese_Geisha_in_Sydney%2C_Japanese_Tea_Ceremony_in_Sydney.jpg/960px-Japanese_Geisha_in_Sydney%2C_Japanese_Tea_Ceremony_in_Sydney.jpg",
+   "title": "Japanese Geisha in Sydney, Japanese Tea Ceremony in Sydney.jpg",
+   "lic": "CC BY-SA 2.0"
+  },
+  "detail": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Geiko_-_Tea_ceremony.jpg/960px-Geiko_-_Tea_ceremony.jpg",
+    "title": "Geiko - Tea ceremony.jpg",
+    "lic": "CC BY-SA 2.0"
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Kazetanuki_Katsushika_Hokusai_1820-1840.jpg/960px-Kazetanuki_Katsushika_Hokusai_1820-1840.jpg",
+    "title": "Kazetanuki Katsushika Hokusai 1820-1840.jpg",
+    "lic": "Public domain"
+   }
+  ]
+ },
+ "C": {
+  "card": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Hama-rikyu_garden_against_the_Tokyo_skyline_%2853620865036%29.jpg/960px-Hama-rikyu_garden_against_the_Tokyo_skyline_%2853620865036%29.jpg",
+   "title": "Hama-rikyu garden against the Tokyo skyline (53620865036).jpg",
+   "lic": "CC BY 2.0"
+  },
+  "detail": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Green_Tea_Hamarikyu_2017_%28203086323%29.jpeg/960px-Green_Tea_Hamarikyu_2017_%28203086323%29.jpeg",
+    "title": "Green Tea Hamarikyu 2017 (203086323).jpeg",
+    "lic": "CC BY-SA 3.0"
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Gelbe_Banner_%2824912284882%29.jpg/960px-Gelbe_Banner_%2824912284882%29.jpg",
+    "title": "Gelbe Banner (24912284882).jpg",
+    "lic": "CC BY-SA 2.0"
+   }
+  ]
+ }
+}
