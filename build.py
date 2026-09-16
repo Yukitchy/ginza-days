@@ -99,7 +99,7 @@ HERO_CSS = """
 .slides{position:absolute;inset:0;overflow:hidden}
 .slides img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transform:scale(1.06);transition:opacity 1.1s ease,transform 5s linear}
 .slides img.on{opacity:1;transform:scale(1)}
-.slides:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.08) 30%,rgba(0,0,0,.74))}
+.slides:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.15) 20%,rgba(0,0,0,.55) 55%,rgba(0,0,0,.82))}
 .hcap{position:relative;z-index:1;min-height:62vh;max-height:600px;display:flex;flex-direction:column;justify-content:flex-end;padding-top:48px;padding-bottom:22px}
 .hcap .kicker{color:#f0c9a0}
 .fixed{position:relative;z-index:1;display:inline-block;align-self:flex-start;font-size:13.5px;font-weight:600;color:#fff;background:rgba(0,0,0,.42);border:1px solid rgba(255,255,255,.45);border-radius:999px;padding:8px 15px;margin:0 0 14px;backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
@@ -212,14 +212,14 @@ footer.wrap{{padding:26px 20px 60px;font-size:13px;color:var(--mute);border-top:
 <header class="hero">
 <div class="hpic"><div class="slides">{''.join(f'<img src="{x["thumb"]}" alt="{html.escape(x["title"])}">' for x in PH['hero'])}</div>
 <div class="wrap hcap">
-<p class="kicker">Tokyo · October 3 to 8 · Hotel The Celestine Ginza</p>
+<p class="kicker">Tokyo · 3 to 8 October</p>
 <h1>Five nights in Ginza, and <span class="nb">three ways</span> to spend them.</h1>
 <p class="fixed">Kabuki is fixed: Sunday 4 October, 11:00. The tickets are in my hands.</p>
 <div class="snav"><div class="dots">{''.join(f'<button type="button" aria-label="Photo {k+1}"></button>' for k in range(len(PH['hero'])))}</div></div>
 </div></div>
 <div class="wrap hbody">
 <p>Sunday is the theatre and Monday is Disneyland, so Tuesday and Wednesday are yours. Here are three courses. Read them, pick two, and tell me which day you want each one.</p>
-<ul class="facts"><li><b>Fixed</b> Sun 4 Oct, kabuki 11:00</li><li><b>Fixed</b> Mon 5 Oct, Disneyland</li><li><b>Open</b> Tue 6 and Wed 7 Oct</li><li><b>Fly home</b> Thu 8 Oct</li></ul>
+<ul class="facts"><li><b>Hotel</b> The Celestine Ginza</li><li><b>Fixed</b> Sun 4 Oct, kabuki 11:00</li><li><b>Fixed</b> Mon 5 Oct, Disneyland</li><li><b>Open</b> Tue 6 and Wed 7 Oct</li><li><b>Fly home</b> Thu 8 Oct</li></ul>
 </div>
 </header>
 <div class="wrap">
